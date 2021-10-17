@@ -496,6 +496,7 @@ Run terraform plan and apply to ensure everything works
 ![4 1](https://user-images.githubusercontent.com/10243139/137619749-aa3e5398-730c-4220-8d6f-3f9fa046f2da.png)
 ![4 2](https://user-images.githubusercontent.com/10243139/137619756-17867c91-a64c-4589-bdfb-20d927496114.png)
 
-
+## Congratulations!
+### You have learned how to create and delete AWS Network Infrastructure programmatically with Terraform!
 
 
