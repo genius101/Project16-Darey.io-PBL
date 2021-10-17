@@ -436,6 +436,7 @@ We will put all variable declarations in a separate file and provide non default
   - variables.tf
 
 
+
         variable "region" {
             default = "us-east-2"
         }
@@ -463,6 +464,7 @@ We will put all variable declarations in a separate file and provide non default
         variable "preferred_number_of_public_subnets" {
             default = null
         }
+
 
 
   - terraform.tfvars
